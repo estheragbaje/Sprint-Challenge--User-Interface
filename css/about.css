@@ -247,6 +247,11 @@ nav {
   width: 70%;
 }
 
+nav a {
+  color: black;
+  text-decoration: none;
+}
+
 .row-one,
 .row-two {
   display: flex;

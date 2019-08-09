@@ -34,13 +34,40 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is the conveys the idea that an HTML Markup specifies the meaning of the content and not just the appearance. For example, the heading tags (h1 to h6) are used when one needs to add a heading to any content. Whereas, the paragraph tag, p is used to denote a large block of content. 
+The Semantic HTML shouldn't be confused witht the non-semantic HTML such as div or span which convey no actual meaning but are just empty or presentational tags.
+
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+
+display: block takes up the entire width of the parent container while display: inline takes up only the width of its element.
+
+
 
 3. What are the 4 areas of the box model?
 
+-content
+-padding
+-border
+-margin
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+On the Main Axis
+
 5. Explain why git is valuable to a team of developers.
+
+GIT is valuable to a team of developers because:
+
+-It makes it easy to contribute to your open source projects
+
+-it helps the entire team to easily make changes to existing code or access code developed by another team member without any conflict.
+
+-It makes it easy to get great documentation
+
+-It is a very reliable repository
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 

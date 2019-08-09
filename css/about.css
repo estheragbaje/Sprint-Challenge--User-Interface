@@ -252,49 +252,31 @@ nav a {
   text-decoration: none;
 }
 
-/*Box Colours*/
-
-.teal {
-  background-color: teal;
+.row-one,
+.row-two {
+  display: flex;
+  margin: 30px 0;
 }
 
-.gold {
-  background-color: gold;
+.description {
+  margin-top: 20px;
 }
 
-.cadetblue {
-  background-color: cadetblue;
+.description button {
+  box-sizing: border-box;
+  padding: 10px 30px;
+  border: 2px solid black;
+  margin-top: 15px;
+  border-radius: 10px;
+  font-size: 16px;
 }
 
-.coral {
-  background-color: coral;
+hr {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: 1px dashed black;
 }
 
-.crimson {
-  background-color: crimson;
-}
-
-.forestgreen {
-  background-color: forestgreen;
-}
-
-.darkorchid {
-  background-color: darkorchid;
-}
-
-.hotpink {
-  background-color: hotpink;
-}
-
-.indigo {
-  background-color: indigo;
-}
-
-.dodgerblue {
-  background-color: dodgerblue;
-}
-
-nav {
-  color: gray;
-  text-decoration: none;
+footer {
+  margin-top: 40px;
 }

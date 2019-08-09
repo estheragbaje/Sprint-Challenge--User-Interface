@@ -246,3 +246,7 @@ nav {
   justify-content: space-between;
   width: 70%;
 }
+
+.teal {
+  background-color: teal;
+}

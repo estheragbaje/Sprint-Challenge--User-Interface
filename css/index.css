@@ -234,6 +234,7 @@ footer nav a {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  margin-top: 30px;
 }
 
 .header-image {
@@ -286,4 +287,9 @@ nav {
 
 .dodgerblue {
   background-color: dodgerblue;
+}
+
+nav {
+  color: gray;
+  text-decoration: none;
 }
